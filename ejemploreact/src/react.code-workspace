@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "react",
+			"path": "../../reactclases/react"
+		}
+	],
+	"settings": {}
+}
